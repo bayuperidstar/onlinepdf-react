@@ -8,6 +8,7 @@
     },
     "dependencies": {
         "@phuocng/react-pdf-viewer": "^1.4.0",
+        "cors": "^2.8.5",
         "express": "^4.17.1",
         "pdfjs-dist": "^2.3.200",
         "react": "^16.13.1",
